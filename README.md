@@ -1,6 +1,6 @@
 ## Python OOP
 OOPs is a very important concepts in python. Unlike general scripting, with the help of OOP we can write more realistic code by strcuturing and 
-making the data more secured and more organised. SO today I have learned OOPs in python and its four most very important properties like -->
+making the data more secured and more organised. SO today I have learned OOPs in python and its four most very important properties like ->
 
 1. Inheritance
 2. Polymorphism
