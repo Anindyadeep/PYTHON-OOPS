@@ -7,7 +7,12 @@ making the data more secured and more organised. SO today I have learned OOPs in
 3. Abstractions
 4. Encapsulation
 
+First of all a huge thanks to @Patrick Loeber (Python Engineer) for the great video tutorial
+[The link to the awesome tutorial video](https://www.youtube.com/watch?v=-pEs-Bss8Wc&list=PLqnslRFeH2UrZtzqlXDWHjI3OV3BK0UWI&index=1)
+
 The main Things which are covered here are as follows:
+
+### PART 1
 1.  Create a class (blueprint)
 2.  Create an instance (object)
 3.  Class vs Instance
@@ -22,6 +27,7 @@ The main Things which are covered here are as follows:
 11. How to create a static function (using ```@decorator```) with the help of a decorator that will be applicable for both class and instance method
 12. Importance of decorator in the static method
 
+### PART 2
 13. Inheritance
 14. How to use child class
 15. Inherit the attributes and functions
@@ -30,6 +36,7 @@ The main Things which are covered here are as follows:
 18. Using the method ```super().init```
 19. Polymorphism (doubt)
 
+### PART 3
 20. Encapsulation
 21. Abstraction of functions with the help of protected/private functions
 22. Using getters and setters using decorators i.e. using ```@property``` and ```@<getter_function name>.setter``` method
