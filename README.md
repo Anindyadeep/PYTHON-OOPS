@@ -9,6 +9,7 @@ making the data more secured and more organised. SO today I have learned OOPs in
 
 First of all a huge thanks to @Patrick Loeber (Python Engineer) for the great video tutorial
 [The link to the awesome tutorial video](https://www.youtube.com/watch?v=-pEs-Bss8Wc&list=PLqnslRFeH2UrZtzqlXDWHjI3OV3BK0UWI&index=1)
+At the same time I added some more fun in the .ipynb files to it for getting more fun to get the tutorial. 
 
 The main Things which are covered here are as follows:
 
